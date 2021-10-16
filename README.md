@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p34t1k
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning CEHv11
+- 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate on (not really looking for collabs right now )
 - 📫 How to reach me  (ill add accounts later i'm too lazy right now hehe)
 
