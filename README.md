@@ -3,7 +3,9 @@
 
 ## How this account is organized
 
-150+ repos accumulated from years of security research, red-team tooling, and CTF/cert prep — most are forks kept as reference copies, not things I wrote. Everything is tagged with GitHub topics on two independent axes, classified from actual repo content (not just names), so it's actually searchable instead of just a wall of repo names.
+150+ repos accumulated from years of security research, red-team tooling, and CTF/cert prep. Everything is tagged with GitHub topics on two independent axes, classified from actual repo content (not just names), so it's actually searchable instead of just a wall of repo names.
+
+**140 forks are archived** — checked commit history on every one and confirmed zero original edits from me on any of them, they're pure reference clones. Archiving is reversible (`gh repo unarchive <repo>`); the topic tags below still apply to archived repos too, so filtering by tag surfaces them alongside anything active. The **10 repos below in "Personal projects" are the only ones I actually wrote**, and are the only ones showing as active/unarchived on the main repo list.
 
 **Nature** (what kind of thing it is — exactly one per repo):
 
