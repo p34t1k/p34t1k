@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=p34t1k&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Security%20Research%20%C2%B7%20Linux%20Tooling%20%C2%B7%20Red%20Team&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=p34t1k&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=5EC8D8&center=true&vCenter=true&width=600&lines=Security+researcher+%7C+red-team+tooling;Builds+and+ships+his+own+Linux+tools;Reverse-engineers+hardware+for+fun" alt="Typing SVG" /></a>
+
+<br>
 
 <a href="https://github.com/p34t1k/MControlCenter"><img alt="MControlCenter" src="https://img.shields.io/github/stars/p34t1k/MControlCenter?style=flat-square&label=MControlCenter&color=2c5364"></a>
 <a href="https://github.com/p34t1k/ultron"><img alt="ultron" src="https://img.shields.io/github/stars/p34t1k/ultron?style=flat-square&label=ultron&color=2c5364"></a>
@@ -55,7 +59,12 @@ Local, offline-first voice assistant — mic → whisper → LLM → TTS, with h
 </tr>
 </table>
 
-> **Note:** GitHub's pinned-repos row above the repo grid is set manually from the web UI (there's no API for it) — if it's still showing old forked tools instead of these two, hit *Customize your pins* on the profile page and swap them in.
+## 📈 GitHub stats
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=p34t1k&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p34t1k&theme=tokyonight" width="48%"/>
+</div>
 
 ## 🧰 Smaller personal scripts
 
